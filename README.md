@@ -71,15 +71,7 @@
 
   <hr>
 
-  <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-  <br>
-  <div width="100%" align="center">
-    <a align="left" href="https://github.com/ramazansancar/CS50x-Fellow-Basvuru-Islemleri" title="CS50x Fellow Başvuru İşlemleri"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ramazansancar&repo=CS50x-Fellow-Basvuru-Islemleri&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/ramazansancar/radyo" title="Radyo"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ramazansancar&repo=radyo&theme=react&border_color=61dafb&border_radius=10"></a>
-  </div>
-  <br><br><br><br><br><br>
-  <h4 align="center">
-    <a href="https://github.com/ramazansancar?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-  </h4>
+  
   
 
   <!--
