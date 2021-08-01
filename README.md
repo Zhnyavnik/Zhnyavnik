@@ -35,6 +35,6 @@
 
 <p align="center">
   <a href="https://github.com/Zhnyavnik/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ZihniYAVNIK's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Zhnyavnik&theme=gruvbox"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ZihniYAVNIK's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Zhnyavnik&theme=react"/>
   </a>
 </p>
