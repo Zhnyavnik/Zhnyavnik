@@ -53,11 +53,14 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
+
+
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 
+  
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#7](https://github.com/DenverCoder1/godel-program-converter/pull/7) in [DenverCoder1/godel-program-converter](https://github.com/Zhnyavnik/godel-program-converter)
 2. 💪 Opened PR [#7](https://github.com/DenverCoder1/godel-program-converter/pull/7) in [DenverCoder1/godel-program-converter](https://github.com/Zhnyavnik/godel-program-converter)
