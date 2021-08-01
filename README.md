@@ -28,7 +28,7 @@
     <br>
     💬 Ask me anything about from <a href="https://github.com/Zhnyavnik/Zhnyavnik/issues" title="Issues">Here</a>
     <br>
-    📫 How to reach me: <a href="mailto: zihniyavnik@hotmail.com">ramazan@ramazansancar.com.tr</a>
+    📫 How to reach me: <a href="mailto: zihniyavnik@hotmail.com">zihniyavnik@hotmail.com</a>
   </p>
 
   
