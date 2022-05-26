@@ -60,14 +60,4 @@
   <br/>
 
   
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/DenverCoder1/godel-program-converter/pull/7) in [DenverCoder1/godel-program-converter](https://github.com/Zhnyavnik/godel-program-converter)
-2. 💪 Opened PR [#7](https://github.com/DenverCoder1/godel-program-converter/pull/7) in [DenverCoder1/godel-program-converter](https://github.com/Zhnyavnik/godel-program-converter)
-3. 🎉 Merged PR [#6](https://github.com/DenverCoder1/godel-program-converter/pull/6) in [DenverCoder1/godel-program-converter](https://github.com/Zhnyavnik/godel-program-converter)
-4. 💪 Opened PR [#6](https://github.com/DenverCoder1/godel-program-converter/pull/6) in [DenverCoder1/godel-program-converter](https://github.com/Zhnyavnik/godel-program-converter)
-5. 🎉 Merged PR [#5](https://github.com/DenverCoder1/godel-program-converter/pull/5) in [DenverCoder1/godel-program-converter](https://github.com/Zhnyavnik/godel-program-converter)
-<!--END_SECTION:activity-->
-</details>
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Zhnyavnik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Zhnyavnik&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
