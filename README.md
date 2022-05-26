@@ -41,14 +41,3 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ZihniYAVNIK's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Zhnyavnik&theme=react"/>
   </a>
 </p>
-
-## 📊 Github stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Zhnyavnik's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Zhnyavnik&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"width="550"/> </a>  
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Zhnyavnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhnyavnik&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"width="500"/> </a>
-  <br/>
-</details>
