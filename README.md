@@ -52,12 +52,3 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Zhnyavnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhnyavnik&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"width="500"/> </a>
   <br/>
 </details>
-
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-  
-
