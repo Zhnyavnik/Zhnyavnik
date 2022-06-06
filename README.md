@@ -24,7 +24,7 @@
     <br>
     💻 I love writing code and learn anythings about it
     <br>
-    📚 I’m currently learning how to build Education .Net Core 
+    📚 I’m currently learning how to build Education .Net Core and Vue.js
     <br>
     💬 Ask me anything about from <a href="https://github.com/Zhnyavnik/Zhnyavnik/issues" title="Issues">Here</a>
     <br>
